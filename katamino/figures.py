@@ -105,4 +105,4 @@ class F12(Figure):
     rotate_number = 0
     is_mirror = False
     color = Fore.RED
-    default_points = (Point(1, 2), Point(2, 1), Point(2, 2), Point(2, 3), Point(3, 1))
+    default_points = (Point(1, 2), Point(2, 1), Point(2, 2), Point(2, 3), Point(3, 2))
